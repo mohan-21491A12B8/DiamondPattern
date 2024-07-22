@@ -1,0 +1,10 @@
+Enter the length of the rectangle: 
+6
+Enter the width of the rectangle: 
+4
+****
+*  *
+*  *
+*  *
+*  *
+****
